@@ -13,7 +13,7 @@ This python script helps you convert an MP4 video into a Telegram sticker. It fi
 ## Requirements
 - Python 3.x
 - OpenCV library
-
+--Massive
 To install OpenCV, run:
 
 ```bash
